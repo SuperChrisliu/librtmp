@@ -1,0 +1,9 @@
+spring.main.web-application-type: none
+
+
+tsing:
+  rtmp:
+    server:
+      port: 1935
+      host: localhost
+      app: qywslive
